@@ -637,18 +637,6 @@ Sensitive credentials and API tokens are managed through environment configurati
 
 ---
 
-## 🌍 Supported Languages
-
-Prepverse.AI aims to improve accessibility for students through multilingual support.
-
-| Language | Support |
-|---|---|
-| English | Supported |
-| Hindi | Supported |
-| Odia | Supported |
-
----
-
 ## 🚧 Future Enhancements
 
 Potential areas for further development include:
