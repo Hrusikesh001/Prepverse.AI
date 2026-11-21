@@ -698,4 +698,3 @@ Your support and contributions help improve the platform and make internship dis
 
 ---
 
-**Built with ❤️ using React, Node.js, Python, Machine Learning, and Generative AI.**
